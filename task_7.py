@@ -14,3 +14,4 @@ def print_pascals_triangle(n):
         print(row)
 
 print_pascals_triangle(5)
+
