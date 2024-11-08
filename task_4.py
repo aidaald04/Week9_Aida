@@ -9,3 +9,4 @@ merged_dict.update(dict_b)
 merged_dict.update(dict_c)
 
 print("Merged dictionary:", merged_dict)
+
