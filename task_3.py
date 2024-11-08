@@ -7,3 +7,4 @@ print("Ascending:", sorted_asc)
 
 sorted_desc = dict(sorted(d.items(), key=operator.itemgetter(1), reverse=True))
 print("Descending:", sorted_desc)
+
